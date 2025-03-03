@@ -1,6 +1,7 @@
 # ok-script
 
 类似于AirScript, 使用Python
+暂时没有源码和文档
 
 ## 优势
 
